@@ -1,0 +1,1 @@
+Array.fill(Array.fill(1,{arg i; 2}),{rand(9)}!3);
